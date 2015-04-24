@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\Event\bin\Debug\Event.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\Event\bin\Debug\Event.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\Event\obj\Debug\Event.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\Event\obj\Debug\Event.pdb

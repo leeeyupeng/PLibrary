@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\bin\Debug\Modules.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\bin\Debug\Modules.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\bin\Debug\Modules.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\bin\Debug\Event.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\bin\Debug\Event.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\obj\Debug\Modules.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\obj\Debug\Modules.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Modules\Modules\obj\Debug\Modules.pdb

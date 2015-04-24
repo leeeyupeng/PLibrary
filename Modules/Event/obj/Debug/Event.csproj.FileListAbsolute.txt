@@ -1,0 +1,5 @@
+c:\Users\administrator\documents\visual studio 2012\Projects\Modules\Event\bin\Debug\Event.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\Modules\Event\bin\Debug\Event.pdb
+c:\Users\administrator\documents\visual studio 2012\Projects\Modules\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache
+c:\Users\administrator\documents\visual studio 2012\Projects\Modules\Event\obj\Debug\Event.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\Modules\Event\obj\Debug\Event.pdb

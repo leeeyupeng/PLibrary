@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modules", "Modules\Modules.csproj", "{8EE3DD66-6053-4687-A1ED-6B3F04DA7858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEvent", "Event\PEvent.csproj", "{03D3FC7E-5D7E-4B8F-B538-A923738C3887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFactory", "PFactory\PFactory.csproj", "{479E236B-7588-47B1-A57B-D665324420DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTimer", "Timer\PTimer.csproj", "{FDC45A67-36A2-424D-BF7F-FBD4A6840548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE3DD66-6053-4687-A1ED-6B3F04DA7858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE3DD66-6053-4687-A1ED-6B3F04DA7858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE3DD66-6053-4687-A1ED-6B3F04DA7858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE3DD66-6053-4687-A1ED-6B3F04DA7858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D3FC7E-5D7E-4B8F-B538-A923738C3887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D3FC7E-5D7E-4B8F-B538-A923738C3887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D3FC7E-5D7E-4B8F-B538-A923738C3887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D3FC7E-5D7E-4B8F-B538-A923738C3887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479E236B-7588-47B1-A57B-D665324420DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479E236B-7588-47B1-A57B-D665324420DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479E236B-7588-47B1-A57B-D665324420DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479E236B-7588-47B1-A57B-D665324420DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC45A67-36A2-424D-BF7F-FBD4A6840548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC45A67-36A2-424D-BF7F-FBD4A6840548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC45A67-36A2-424D-BF7F-FBD4A6840548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC45A67-36A2-424D-BF7F-FBD4A6840548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

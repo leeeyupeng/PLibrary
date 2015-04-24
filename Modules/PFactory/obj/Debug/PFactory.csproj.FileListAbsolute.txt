@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\PFactory\obj\Debug\PFactory.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\PFactory\bin\Debug\PFactory.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\PFactory\bin\Debug\PFactory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\PFactory\obj\Debug\PFactory.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Modules\PFactory\obj\Debug\PFactory.pdb
